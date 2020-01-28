@@ -20,6 +20,7 @@
         </div>
         <div class="join-txt">JOIN NOW</div>
     </a>
+
 </template>
 <script>
 export default {
@@ -33,10 +34,10 @@ export default {
     data(){
         return{
             rdata: {
-                icon_url: '',
-                name: '',
-                members_total: 0,
-                members_online: 0,
+                icon_url: '../assets/Logo.png',
+                name: 'Progen',
+                members_total: N/A,
+                members_online: N/A,
             }
         };
     },

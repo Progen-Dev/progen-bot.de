@@ -4,6 +4,12 @@
             <h1>Progen Discord</h1>
             <p class="my-5">
                 Progen's Discord Server. There they can write with other members to be informed about all current topics and look at the latest development work.
+                    <br><br>
+                <a href="https://discordapp.com/oauth2/authorize?client_id=495293590503817237&scope=bot">Invite Progen</a>
+                <br><br>
+                <a href="https://discordapp.com/oauth2/authorize?client_id=662647209929605126&scope=bot">Invite ProgenMusic1 additional function</a>
+                <br><br>
+                <a href="https://discordapp.com/oauth2/authorize?client_id=662647378385305620&scope=bot">Invite ProgenMusc2 additional function</a>
             </p>
             <DiscordInfo guildid="495865304770150401"
             href="https://discord.progen-bot.de"

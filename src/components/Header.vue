@@ -50,7 +50,7 @@
       class="burger-closer"
       :class="{ 'd-none': !burgerActive }"
       @click="burgerClose()"
-    >
+    >   
     </div>
   </div>
 </template>
@@ -89,9 +89,9 @@ export default {
         },
         {
           name: 'Discord',
-          title: '',
+          title: 'Discord',
           window_title: 'Progen',
-          route: '',
+          route: '/Discord',
           active: true,
         },
       ],
@@ -202,15 +202,5 @@ export default {
     .header-burger {
       display: block !important;
     }
-
-    /* .header-btn {
-      width: 100%;
-      margin: 0;
-      padding: 5px 0px;
-    }
-
-    .header-img {
-      display: none;
-    } */
   }
 </style>
