@@ -19,31 +19,22 @@
       <p class="mt-5">
         Progen is {{calculateAge(new Date(2018-8-27))}} years old.
         <br><br>
-        Progen is a multifunctional bot. 
-        Not only does it provide good mood on your Discord server, but it also has the option to moderate the server so that there is still a peaceful mood. 
-        Progen ensures a good tuning in the voice channels with an excellent Tom qualtität for a good mood. 
-        The two additional bots <a href="https://discordapp.com/oauth2/authorize?client_id=662647209929605126&scope=bot">ProgenMusic1</a> and <a href="https://discordapp.com/oauth2/authorize?client_id=662647378385305620&scope=bot">ProgenMusic2</a> have been added. 
-        Thanks to them, you can listen to music in several channels. 
-        The join process is automatic. The <a href="https://pwi.progen-bot.de/">PWI (Progen Webinterface)</a> is available day and night for easy conditions. 
-        Progen is reliably online for them day and night. This is made possible by a new powerful server. 
-        For more information we have written a <a href="https://github.com/ProgenBot/ProgenBot/wiki">Documentation </a> just waiting to be read.
-        <br><br>
-        <img src="https://top.gg/api/widget/495293590503817237.svg?usernamecolor=FFFFFF&topcolor=000000" alt=" ">
-          <br><br>          
-        I would like to thank all the people who put their time and passion into this project and put so much effort into it!
-        <br><br>
-        <a href="https://www.youtube.com/user/Zekrommaster110">Zekro</a>WebDev
-        <br><br>
-             Evoh
-            BotDev
-            <br><br>
-            M'Torials
-            PWI -, Bot-, WebDev
-            <br><br>
-            ShowMeYourSkil
-            PWI -, Bot-, WebDev   
+        Progen is a feature rich discord bot with advanced functionality. It features a web interface, the PWI (Progen Web Interface), to manage the bot and moderate your server.
+        For more information read our WIKI
+        <ul>
+          <h3>Features</h3>
+          A list of commands for 
+          <li>General</li>
+          <li>Moderation</li>
+          <li>Music</li>
+          <li>Fun</li>
+          <li>Other</li>
+        </ul>
         <br><br>
         A very big thank you to Zekro!
+        <br><br>
+        <img src="https://top.gg/api/widget/495293590503817237.svg?usernamecolor=FFFFFF&topcolor=000000" alt=" ">
+        <br><br>
       </p> 
 
     </b-container>
