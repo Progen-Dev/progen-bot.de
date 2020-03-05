@@ -15,7 +15,7 @@ export default new Router({
     },
     {
       path: '/discord',
-      name: 'Discord',
+      name: 'discord',
       component: Discord,
     },
   ],

@@ -2,7 +2,7 @@
   <div>
     <b-container fluid class="header d-flex">
       <img 
-        src="../assets/Logo.png"
+        src="../assets/social/logo.png"
         width="40"
         height="40"
         class="header-img mr-5 my-auto"
@@ -21,7 +21,7 @@
     <!-- BURGER HEADER -->
     <b-container fluid class="header header-burger d-none">
       <img 
-        src="../assets/Logo.png"
+        src="../assets/social/logo.png"
         width="30"
         height="30"
         class="header-img mr-4 my-auto"

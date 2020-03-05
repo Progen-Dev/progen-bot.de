@@ -1,4 +1,4 @@
-("progen-bot.de")[https://progen-bot.de]
+(progen-bot.de)["https://progen-bot.de"]
 
 Progen's new website made in:
 - Vue

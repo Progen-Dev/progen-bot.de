@@ -3,42 +3,62 @@
     <div class="main-header">
       <b-container fluid class="header-cont">
         <div class="logo mx-auto text-center">
-          <img width="300" height="300" src="../assets/Logo.png" />
+          <img width="300" height="300" src="../assets/social/logo_round.png" />
           <h1 class="font-montserrat mt-3 mb-0">Progen</h1>
           <h2 class="font-montserrat">Mutlifunction DiscordBot with Webinterface</h2>
           <button class="down" @click="scrollTo('#about')">
             <p>This is Progen!</p>
-            <div style="top: -20px;"><img width="80" src="../assets/down-vec.svg"/></div>
-           <div style="top: -60px;"><img width="80" src="../assets/down-vec.svg"/></div>
+            <div style="top: -20px;"><img width="80" src="../assets/svg/down-vec.svg"/></div>
+           <div style="top: -60px;"><img width="80" src="../assets/svg/down-vec.svg"/></div>
           </button>
         </div>
       </b-container>
     </div>
     <b-container id="about" class="content mt-6">
       <h1 class="page-header">HEY! MY NAME IS PROGEN!</h1>
-      <p class="mt-5">
-        Progen is {{calculateAge(new Date(2018-8-27))}} years old.
-        <br><br>
-        Progen is a feature rich discord bot with advanced functionality. It features a web interface, the PWI (Progen Web Interface), to manage the bot and moderate your server.
-        For more information read our WIKI
-        <ul>
-          <h3>Features</h3>
-          A list of commands for 
-          <li>General</li>
-          <li>Moderation</li>
-          <li>Music</li>
-          <li>Fun</li>
-          <li>Other</li>
-        </ul>
-        <br><br>
-        A very big thank you to Zekro!
-        <br><br>
-        <img src="https://top.gg/api/widget/495293590503817237.svg?usernamecolor=FFFFFF&topcolor=000000" alt=" ">
-        <br><br>
-      </p> 
+      <div class="mt-5">
+Progen
+Multifunctional Discord Bot with Webinterface.
+Since {{calculateAge(new Date(2018-8-27))}} years.
+<br><br>
+<h3>Fun</h3>
+Progen offers little games! Don't know what to do? Better play a game with Progen.
+<br><br>
+<div>
+  <h3>MUSIC</h3>
+  Progen can play your favorite music from Youtube or other MP3 streams like radio stations. You can control the music player via the <a href="https://pwi.progen-bot.de">PWI</a> or with simple text commands.
+  And last but not least, you can play music in multiple channels at the same time! Just invite Progens music bots (http://progen-bot.de/Discord).
+  You can also create playlists to ensure the right music at the right time! For more infrmation see our wiki.
+</div>
+<br><br>
+<h3>XP System</h3>
+The more you write, the more XP you gain! See who is active on your server. Spawming does not count!
+<br><br>
+<h3>MODERATION</h3>
+Manage your server and its members. Warn, kick or ban people. You can also mute peaple spawming or using the wrong tone. Clear the channel when there are too much messages and more!
+<br><br>
+<h3>Server Customization</h3>
+Change the command prefix of Progen to anything you like! Do you like fish? Enable or disable Ok, let's play some music with 'fish?music play'. Enable or Disable notifications when you level up or create temporary voice channels!
+<br><br>
+<h3>GET PROGEN ON YOUR SERVER</h3>
+Progen: <a href="https://discordapp.com/oauth2/authorize?client_id=495293590503817237&scope=bot&permissions=2146958847">Click</a>
+<br>
+Progen Music 1: <a href="https://discordapp.com/oauth2/authorize?client_id=662647209929605126&scope=bot">Click</a>
+<br>
+Progen Music 2: <a href="https://discordapp.com/oauth2/authorize?client_id=662647378385305620&scope=bot">Click</a>
+<br><br>
+<h3>DISCORD</h3>
+This is the Progen discord server! The a look to get support or just hang out with the dev team. Every contribution or requests are welcome!
+<a href="https://discord.gg/n7csqga">JOIN NOW</a>
+<br><br>
+<h3>DOKUMENTATION</h3>
+[EIN LINK ZUM WIKI]
 
+[FOOTER]
+      </div> 
     </b-container>
-    <Footer />
+   <fotter>
+     </fotter>
   </div>
 </template>
 

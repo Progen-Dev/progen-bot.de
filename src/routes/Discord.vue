@@ -21,6 +21,7 @@
             allowtransparency="true"
             frameborder="0"
             ></iframe>
+                            <img src="https://top.gg/api/widget/495293590503817237.svg?usernamecolor=FFFFFF&topcolor=000000" alt=" ">
         </div>
     </div>
 </template>

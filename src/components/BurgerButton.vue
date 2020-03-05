@@ -1,7 +1,7 @@
 <template>
   <button @click="btnClick">
     <img 
-      src="../assets/down-vec.svg" 
+      src="../assets/svg/down-vec.svg" 
       height="40" 
       width="40"
       :style="{ transform: `rotate(${this.rotation}deg)` }"

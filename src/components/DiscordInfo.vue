@@ -2,7 +2,7 @@
     <a :href="href" class="dc-cont d-flex">
         <div class="d-flex mx-auto data-cont">
             <img class="avatar mr-4" 
-            :src="rdata.icon_url.replace('.jpg')"
+            :src="rdata.icon_url.replace('.svg')"
             width="100" height="100"/>
             <div>
                 <h2>{{ rdata.name}}</h2>
@@ -31,24 +31,7 @@ export default {
         href: String
     },
 
-    data(){
-        return{
-            rdata: {
-                icon_url: '../assets/Logo.png',
-                name: 'Progen',
-                members_total: N/A,
-                members_online: N/A,
-            }
-        };
-    },
-
     methods:{
-        fetchData(){
-            this.$http.get(`${this.guildid}`)
-            .then((res) =>{
-              this.rdata = res.body;
-            }).catch(console.error);
-        },
     },
 
     created(){
