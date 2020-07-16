@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 (progen-bot.de)["https://progen-bot.de"]
+=======
+[progen-bot.de](https://progen-bot.de)
+>>>>>>> b4e91ceaf4599acaba583cad4a5dfffae034bb35
 
 Progen's new website made in:
 - Vue

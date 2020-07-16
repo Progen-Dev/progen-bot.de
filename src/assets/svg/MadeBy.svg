@@ -13,11 +13,11 @@
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
-   id="svg197"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="MadeBy.svg">
   <defs
-     id="defs191" />
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="400"
+     inkscape:cx="-75.714286"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -37,7 +37,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata194">
+     id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -57,65 +57,65 @@
        id="rect828-1"
        width="247.95239"
        height="124.35416"
-       x="43.089279"
-       y="107.06696"
+       x="-7.5595298"
+       y="90.436012"
        ry="21.166649" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;letter-spacing:0px;word-spacing:0px;fill:#afafaf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="166.9371"
-       y="140.44629"
+       x="116.28828"
+       y="123.81535"
        id="text1182-0"><tspan
          sodipodi:role="line"
          id="tspan1180-7"
-         x="166.9371"
-         y="140.44629"
+         x="116.28828"
+         y="123.81535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#afafaf;fill-opacity:1;stroke-width:0.26458332">by ShowMeYourSkil</tspan></text>
     <path
        style="fill:#5567a0;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 84.099702,203.63988 H 94.683043 V 141.4628 h 18.520837 c 11.90625,2.64582 11.90625,22.48957 -1.32293,23.8125 -4.04281,-0.0173 -2.64587,2e-5 -6.58117,2e-5 l -0.0334,-5.29166 h -6.614586 v 14.55207 l 18.520826,-1e-5 c 15.59518,0 18.82339,-14.23978 14.79549,-26.31687 -2.80573,-8.41253 -8.44426,-16.01648 -18.76424,-16.01647 H 85.422622 v 71.43752 c 8.620742,9.02181 16.310488,18.95624 25.135408,27.78123 56.88542,0 56.88542,0 152.13542,0 L 115.8497,134.84824 85.422621,132.20238 v 71.43752"
+       d="m 33.450892,187.00892 h 10.583341 v -62.17708 h 18.52084 c 11.90625,2.64583 11.90625,22.48958 -1.32293,23.8125 -4.04281,-0.0173 -2.64587,3e-5 -6.581169,3e-5 l -0.0334,-5.29167 h -6.61459 v 14.55208 l 18.520829,-2e-5 c 15.595182,0 18.823393,-14.23978 14.795492,-26.31686 -2.805731,-8.41253 -8.444261,-16.01648 -18.764242,-16.01647 H 34.773812 v 71.43751 c 8.620742,9.02182 16.310492,18.95625 25.135413,27.78124 56.885415,0 56.885415,0 152.135415,0 L 65.200893,118.21729 34.773811,115.57143 v 71.43751"
        id="path837-0-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccscccccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.98483658px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;letter-spacing:0px;word-spacing:0px;fill:#afafaf;fill-opacity:1;stroke:none;stroke-width:0.26554599"
-       x="128.63139"
-       y="203.9476"
+       x="77.798294"
+       y="187.37694"
        id="text1014-1"
        transform="scale(0.99637469,1.0036385)"><tspan
          sodipodi:role="line"
          id="tspan1012-0"
-         x="128.63139"
-         y="203.9476"
+         x="77.798294"
+         y="187.37694"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.98483658px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#afafaf;fill-opacity:1;stroke-width:0.26554599">rogen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="126.47197"
-       y="203.34676"
+       x="75.823158"
+       y="186.71581"
        id="text1014"><tspan
          sodipodi:role="line"
          id="tspan1012"
-         x="126.47197"
-         y="203.34676"
+         x="75.823158"
+         y="186.71581"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">rogen</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 84.099691,203.63988 H 94.683033 V 141.4628 h 18.520837 c 11.90625,2.64582 11.90625,22.48957 -1.32293,23.8125 -4.04281,-0.0173 -2.64587,2e-5 -6.58117,2e-5 l -0.0334,-5.29166 h -6.614586 v 14.55207 l 13.229156,-1e-5 c 26.45833,0 26.45831,-42.33336 1.32292,-42.33333 H 85.422614 v 71.43751"
+       d="m 33.450881,187.00892 h 10.583342 v -62.17708 h 18.520839 c 11.906253,2.64583 11.906253,22.48958 -1.32293,23.8125 -4.042809,-0.0173 -2.645867,3e-5 -6.581169,3e-5 l -0.0334,-5.29167 h -6.614589 v 14.55208 l 13.229159,-2e-5 c 26.458331,0 26.458313,-42.33335 1.322922,-42.33332 H 34.773804 v 71.4375"
        id="path837-0-1-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="166.6416"
-       y="139.93861"
+       x="115.99279"
+       y="123.30767"
        id="text1182"><tspan
          sodipodi:role="line"
          id="tspan1180"
-         x="166.6416"
-         y="139.93861"
+         x="115.99279"
+         y="123.30767"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">by ShowMeYourSkil</tspan></text>
   </g>
 </svg>
