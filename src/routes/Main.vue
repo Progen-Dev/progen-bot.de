@@ -7,7 +7,7 @@
           <h1 class="font-montserrat mt-3 mb-0">Progen</h1>
           <h2 class="font-montserrat">Multifunctional Discord Bot with Webinterface. 
                 <br><br>
-            Since {{calculateAge(new Date(2018-8-27))}} years.</h2>
+            For {{calculateAge(new Date(2018-8-27))}} years.</h2>
           <button class="down" @click="scrollTo('#about')">
             <p>See features</p>
             <div style="top: -20px;"><img width="80" src="../assets/svg/down-vec.svg"/></div>
